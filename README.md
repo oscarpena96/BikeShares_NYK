@@ -45,4 +45,5 @@ To end this summary we can see a pattern, males tend to ride more bikes and to d
 # Bibliography
 Campbell, K. B. & Brakewood, C. 2017. Sharing riders: How bikesharing impacts bus ridership in New York City. Transportation research. 100: 264-282.
 
-
+Link to dashboard:
+[link to dashboard](https://public.tableau.com/app/profile/oscar.pena.gomez)
